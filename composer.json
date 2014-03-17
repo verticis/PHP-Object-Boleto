@@ -1,0 +1,22 @@
+{
+    "name": "verticis/boleto-oop",
+    "description": "Gerador de Boleto POO",
+    "keywords": ["PHP","Boleto","POO"],
+    "homepage": "https://github.com/verticis/boleto-oop.git",
+    "license": "MIT",
+    "type": "package",
+    "package": {
+        "name": "verticis/boleto-oop",
+        "version": "dev-master",
+        "source": {
+            "url": "git://github.com/verticis/boleto-oop.git",
+            "type": "git",
+            "reference": "master"
+        },
+        "autoload": {
+            "psr-0" : {
+                "" : "src"
+            }
+        }
+    }
+}
